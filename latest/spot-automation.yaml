@@ -1,0 +1,4 @@
+image:
+  repository: pyengine
+  name: spot-automation
+  version: 1.6.4.20210305.132001
