@@ -1,4 +1,4 @@
 image:
-  repository: pyengine
+  repository: spaceone
   name: spot-automation
   version: 0.1
